@@ -11,9 +11,7 @@ That's why I spent hours searching relevant Payday 2 mod forums, communities and
 ### Updates and Suggestions
 
 I do my best to keep the list regularly up to date. 
-Old mods that don't work anymore will be removed from the list.
-
-If you have found a cool and useful mod for Payday 2, feel free to suggest it to me. 
+Old mods that don't work anymore will be removed from the list. <br>If you have found a cool and useful mod for Payday 2, feel free to suggest it to me. 
 
 # Table of Contents
 
@@ -29,7 +27,7 @@ If you have found a cool and useful mod for Payday 2, feel free to suggest it to
      - [Lua Mods](##Lua-Mods-mods)
 
 # Clientside Mods vs Lua Mods	
-Not all mods are created equal. The difference is made between client-side mods and Lua-based mods.
+Not all mods are created equal. The difference is made between client-side mods and Lua-based mods.<br>
 Thanks to the [Payday Fandom Wiki](https://payday.fandom.com/wiki/) for the detailed summary below.
 
 https://payday.fandom.com/wiki/PAYDAY_2_mods_and_tools
