@@ -17,14 +17,18 @@ Old mods that don't work anymore will be removed from the list. <br>If you have 
 
  - [Clientside Mods vs Lua Mods](#Clientside-Mods-vs-Lua-Mods)
  - [Requirements](#Requirements)
-     - [SuperBLT](#SuperBT)
+     - [SuperBLT](#SuperBLT)
  - [Other Libaries and Frameworks](#Other-Libaries-and-Frameworks)
      - [BeardLib](#BeardLib)
      - [HopLib](#HopLib)
      - [WeaponLib and WeaponLib Fixes](#WeaponLib-and-WeaponLib-Fixes)
  - [Installation](#Installation)
      - [Clientside Mods](#Clientside-Mods-mod_overrides)
-     - [Lua Mods](##Lua-Mods-mods)
+     - [Lua Mods](#Lua-Mods-mods)
+ - [Mods](#Mods)
+     - [HUD](#HUD)
+     - [Quality of Life](#Quality-of-Life)
+     - [Gameplay Changing](#Gameplay-Changing)
 
 # Clientside Mods vs Lua Mods	
 Not all mods are created equal. The difference is made between client-side mods and Lua-based mods.<br>
@@ -75,3 +79,11 @@ The purpose of BeardLib is to provide tools for modders to create quality and mo
 [WeaponLib](https://modworkshop.net/mod/24177) is a mod which aims to provide a compilation of utilities and other helpful things for custom weapon creators to use in their own mods.
 
 [WeaponLib Fixes](https://modworkshop.net/mod/29987) is a community-developed fix that addresses known bugs in WeaponLib.
+
+# Installation
+
+### Clientside Mods (/assets/mod_overrides)
+Clientside mods are stored in the Payday 2 installation directory under `/assets/mod_overrides`. 
+
+### Lua Mods (/mods)
+Lua mods are stored in the Payday 2 installation directory under `/mods`.
