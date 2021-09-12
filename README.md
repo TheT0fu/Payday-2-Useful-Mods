@@ -87,3 +87,22 @@ Clientside mods are stored in the Payday 2 installation directory under `/assets
 
 ### Lua Mods (/mods)
 Lua mods are stored in the Payday 2 installation directory under `/mods`.
+
+# Mods
+I divide the mods into different categories.
+
+- [HUD](#HUD) mods add useful information to your user interface.
+- [Quality of Life](#Quality-of-Life) mods make the game a lot more comfortable without changing the core gameplay.
+- [Gameplay Changing](#Gameplay-Changing) mods, as the name suggests, will change your gameplay experience by adding new or old features.
+
+### HUD
+
+| Mod | Description | |
+| -------- | -------- | -------- |
+| [WolfHUD](https://github.com/Kamikaze94/WolfHUD) | WolfHUD is probably the most famous HUD mod for Payday 2. It includes many individual HUD mods and has gradually become an all-in-one HUD solution for the community | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/) [![badge](https://img.shields.io/static/v1?label=require&message=beardlib&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://github.com/simon-wh/PAYDAY-2-BeardLib/) 
+| [HoloUI](https://modworkshop.net/mod/12501) | HoloUI is a UI mod that changes most of the UI design of the game to look more flat and "modern". It's also highly customizable! | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/) [![badge](https://img.shields.io/static/v1?label=require&message=beardlib&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://github.com/simon-wh/PAYDAY-2-BeardLib/) 
+| [PDTH HUD Reborn](https://modworkshop.net/mod/19900) | PDTH HUD Reborn brings the classic HUD from Payday: The Heist to Payday 2. | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/) [![badge](https://img.shields.io/static/v1?label=require&message=beardlib&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://github.com/simon-wh/PAYDAY-2-BeardLib/) 
+| [HEV HUD](https://modworkshop.net/mod/27954) | A recreation of the HUD from Valve's Half-Life 2 (2004).This HUD is extremely unfinished, but due to time constraints, development is greatly slowed, so I would prefer to let people try it out in the meantime. It's technically usable and should be stable. | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/) [![badge](https://img.shields.io/static/v1?label=require&message=beardlib&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://github.com/simon-wh/PAYDAY-2-BeardLib/) 
+| [Hotline Miami HUD](https://modworkshop.net/mod/27294) | The Hotline Miami HUD brings Payday 2 back to the 80s. True to the Hotline Miami vibes. | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/)
+| [Kill Feed](https://modworkshop.net/mod/20055) | This mod provides you with a fully customizable kill feed. | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/) [![badge](https://img.shields.io/static/v1?label=require&message=hoplib&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://github.com/segabl/pd2-hoplib)
+| [Item Hunter](https://modworkshop.net/mod/26200) | This mod adds waypoints to items for collectible achievements/trophies. The mod is activated via a keybind and can be toggled on/off. | [![badge](https://img.shields.io/static/v1?label=require&message=superblt&labelColor=C13B3A&color=555&style=for-the-badge&logo=data:image/svg)](https://superblt.znix.xyz/)
