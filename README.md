@@ -56,14 +56,14 @@ https://payday.fandom.com/wiki/PAYDAY_2_mods_and_tools
 
 As explained above, there is a hookloader for Lua-based mods. 
 
-### SuperBLT
+### SuperBLT <a href="" id="SuperBLT"></a>
 [SuperBLT](https://superblt.znix.xyz/) is a fork of the BLT mod-loading hook for PAYDAY 2, with a number of major improvements, such as a cross-platform audio API and the ability to alter any base-game XML file without the hassle of modifying bundle files (greatly alleviating the need for Bundle Modder). SuperBLT is mandatory to use Lua-based mods.
 
 # <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/payday-2-icon.png" /> Other Libaries and Frameworks <a href="" id="Other-Libaries-and-Frameworks"></a>
 
 Additionally, there are other Payday 2 libaries and frameworks that are needed for certain mods.
 
-### BeardLib
+### BeardLib <a href="" id="BeardLib"></a>
 [BeardLib](https://github.com/simon-wh/PAYDAY-2-BeardLib/) is a large library that assists in mod creation.
 The purpose of BeardLib is to provide tools for modders to create quality and more advanced mods without repetitive implementation of basic or advanced features.
 
@@ -72,20 +72,20 @@ The purpose of BeardLib is to provide tools for modders to create quality and mo
 -   Easy ability to add content. Such as masks, melee weapons, weapon mods, suits, gloves, etc
 -   Modules system
 
-### HopLib
+### HopLib <a href="" id="HopLib"></a>
 [HopLib](https://github.com/segabl/pd2-hoplib) is a collection of utilities and functions that are needed if you want to use mods from [Hoppip](https://modworkshop.net/user/3972).
 
-### WeaponLib and WeaponLib Fixes
+### WeaponLib and WeaponLib Fixes <a href="" id="WeaponLib-and-WeaponLib-Fixes"></a>
 [WeaponLib](https://modworkshop.net/mod/24177) is a mod which aims to provide a compilation of utilities and other helpful things for custom weapon creators to use in their own mods.
 
 [WeaponLib Fixes](https://modworkshop.net/mod/29987) is a community-developed fix that addresses known bugs in WeaponLib.
 
 # <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/payday-2-icon.png" /> Installation <a href="" id="Installation"></a>
 
-### Clientside Mods (/assets/mod_overrides)
+### Clientside Mods (/assets/mod_overrides) <a href="" id="Clientside-Mods-mod_overrides"></a>
 Clientside mods are stored in the Payday 2 installation directory under `/assets/mod_overrides`. 
 
-### Lua Mods (/mods)
+### Lua Mods (/mods) <a href="" id="Lua-Mods-mods"></a>
 Lua mods are stored in the Payday 2 installation directory under `/mods`.
 
 # <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/payday-2-icon.png" /> Mods <a href="" id="Mods"></a>
@@ -95,7 +95,7 @@ I divide the mods into different categories.
 - [Quality of Life](#Quality-of-Life) mods make the game a lot more comfortable without changing the core gameplay.
 - [Gameplay Changing](#Gameplay-Changing) mods, as the name suggests, will change your gameplay experience by adding new or old features.
 
-### HUD
+### HUD <a href="" id="HUD"></a>
 
 | Mod | Description | Require|
 | -------- | -------- | -------- |
